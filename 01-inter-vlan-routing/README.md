@@ -9,7 +9,7 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 - Test the connectivity between ACCOUNTS and DELIVERY department
 
 ## 🖼️ Network Topology
-![Network Topology](screenshots/topology-diagram.png)
+
 
 ## 🏗️ Network Design
 
