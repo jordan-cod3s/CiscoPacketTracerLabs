@@ -82,6 +82,7 @@ interface g0/1
 - Subnet planning and VLSM
 - Trunk and access port configuration
 
-## Files
-- `topology.pkt` - Packet Tracer simulation file
-- `configs/` - Device configurations
+## Project Files
+- [`topology.pkt`](topology.pkt) - Packet Tracer simulation file
+- [`configs/`](configs/) - Device configuration exports
+- [`screenshots/`](screenshots/) - Network topology and testing results
