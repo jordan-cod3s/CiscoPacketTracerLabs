@@ -1,6 +1,6 @@
 # Inter-VLAN Routing Lab – Accounts & Delivery Departments
 
-## 📋 Assignment Overview
+## Assignment Overview
 Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departments with the following requirements:
 - Each department should contain at least 2 PCs
 - Appropriate number of switches and routers should be used in the network
