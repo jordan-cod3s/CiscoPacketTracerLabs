@@ -10,9 +10,6 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 
 ## Network Topology
 
-
-## Network Design
-
 ### ACCOUNTS Department (VLAN 10)
 **Network:** 192.168.40.0/25  
 **Gateway:** 192.168.40.1
