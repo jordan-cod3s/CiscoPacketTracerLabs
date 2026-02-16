@@ -55,10 +55,7 @@ lab-name/
 ## 🚀 Upcoming Labs
 
 Projects in development:
-- **OSPF Dynamic Routing Lab** - Implementing OSPF for scalable routing
-- **Network Security Lab** - ACLs, port security, and basic hardening
-- **DHCP & DNS Services** - Configuring network services
-- **WAN Technologies Lab** - Serial connections and Frame Relay
+TBD
 
 ## 💡 Why These Labs Matter
 
@@ -74,7 +71,7 @@ These projects demonstrate:
 I'm Jordan, a GRC professional with a Master's in Cybersecurity, building hands-on technical networking skills. These labs represent my journey from policy/compliance work toward technical security and network engineering roles.
 
 **Background:** Technology Risk Consulting @ Ernst & Young → GRC Analyst @ Squarespace  
-**Learning Goals:** Network automation, Python for infrastructure, CCNA prep
+**Learning Goals:** Network automation, Python for infrastructure
 
 [LinkedIn](https://www.linkedin.com/in/jordan-rudolph-51706312b/) | [Main Profile](https://github.com/jordan-cod3s)
 
