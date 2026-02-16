@@ -2,7 +2,7 @@
 
 A collection of hands-on networking projects demonstrating fundamental and advanced networking concepts using Cisco Packet Tracer. Each lab includes complete documentation, device configurations, and testing verification.
 
-## 📚 Lab Portfolio
+## Lab Portfolio
 
 ### [01 - Inter-VLAN Routing Lab](./01-inter-vlan-routing)
 **Scenario:** Connecting ACCOUNTS and DELIVERY departments using router-based inter-VLAN routing
@@ -13,11 +13,11 @@ A collection of hands-on networking projects demonstrating fundamental and advan
 - Subnetting and IP addressing (192.168.40.0/24)
 - Network testing and verification
 
-**Status:** ✅ Complete
+**Status:** Complete
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 Through these labs, I'm building proficiency in:
 - Network design and implementation
@@ -28,14 +28,14 @@ Through these labs, I'm building proficiency in:
 - Network troubleshooting and verification
 - Professional documentation practices
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Platform:** Cisco Packet Tracer
 - **Devices:** Cisco routers (2911), switches (2960-24TT)
 - **Protocols:** TCP/IP, VLANs, 802.1Q trunking
 - **Documentation:** Markdown, configuration exports, network diagrams
 
-## 📖 Lab Structure
+## Lab Structure
 
 Each lab follows a consistent structure for professional documentation:
 ```
@@ -52,12 +52,12 @@ lab-name/
     └── switch2-config.txt
 ```
 
-## 🚀 Upcoming Labs
+## Upcoming Labs
 
 Projects in development:
 TBD
 
-## 💡 Why These Labs Matter
+## Why These Labs Matter
 
 These projects demonstrate:
 - **Hands-on experience** with Cisco networking equipment
@@ -66,7 +66,7 @@ These projects demonstrate:
 - **Documentation abilities** critical for network operations
 - **Foundation knowledge** for CCNA certification
 
-## 📫 About Me
+## About Me
 
 I'm Jordan, a GRC professional with a Master's in Cybersecurity, building hands-on technical networking skills. These labs represent my journey from policy/compliance work toward technical security and network engineering roles.
 
@@ -77,7 +77,7 @@ I'm Jordan, a GRC professional with a Master's in Cybersecurity, building hands-
 
 ---
 
-## 📝 Notes
+## Notes
 
 All labs are designed and tested in Cisco Packet Tracer. Configuration files are exported from actual CLI commands, not GUI configurations, demonstrating command-line proficiency.
 
