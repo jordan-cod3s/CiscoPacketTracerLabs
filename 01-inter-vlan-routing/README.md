@@ -8,10 +8,10 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 - All devices in the network should be connected using appropriate cables
 - Test the connectivity between ACCOUNTS and DELIVERY department
 
-## 🖼️ Network Topology
+## Network Topology
 
 
-## 🏗️ Network Design
+## Network Design
 
 ### ACCOUNTS Department (VLAN 10)
 **Network:** 192.168.40.0/25  
@@ -37,7 +37,7 @@ Design a network in Cisco Packet Tracer to connect ACCOUNTS and DELIVERY departm
 - **Router:** Cisco 2911 (Router-on-a-Stick configuration)
 - **Switches:** 2x Cisco 2960-24TT
 
-## ⚙️ Configuration
+## Configuration
 
 ### Router Setup
 ```cisco
@@ -71,17 +71,17 @@ interface g0/1
  switchport mode trunk
 ```
 
-## ✅ Testing Results
+## Testing Results
 - [x] Ping within ACCOUNTS department
 - [x] Ping within DELIVERY department  
 - [x] **Ping between departments (inter-VLAN routing working)**
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 - VLAN configuration and segmentation
 - Router-on-a-Stick (ROAS) inter-VLAN routing
 - Subnet planning and VLSM
 - Trunk and access port configuration
 
-## 📁 Files
+## Files
 - `topology.pkt` - Packet Tracer simulation file
 - `configs/` - Device configurations
