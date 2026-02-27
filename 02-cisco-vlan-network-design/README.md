@@ -11,6 +11,13 @@ Building a small network for a branch of a fast-growing company with the followi
 - Devices in all departments are required to communicate with each other.
 - Assume the ISP gave base network of 192.168.1.0.
 
-## Network Topology 
+## IP Addressing Table
+| Department | VLAN | Network | Subnet Mask | Gateway |
+|---|---|---|---|---|
+| Admin/IT | 10 | 192.168.1.0/26 | 255.255.255.192 | 192.168.1.1 |
+| Finance/HR | 20 | 192.168.1.64/26 | 255.255.255.192 | 192.168.1.65 |
+| CS/Reception | 30 | 192.168.1.128/26 | 255.255.255.192 | 192.168.1.129 |
 
+## Network Topology
+![Network Topology](topology.png)
 
