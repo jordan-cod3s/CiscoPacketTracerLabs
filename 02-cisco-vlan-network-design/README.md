@@ -21,3 +21,6 @@ Building a small network for a branch of a fast-growing company with the followi
 ## Network Topology
 ![Network Topology](topology.png)
 
+## Configuration Files
+- [Router Config](configs/router-config.txt)
+- [Switch Config](configs/switch-config.txt)
