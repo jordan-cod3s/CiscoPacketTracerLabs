@@ -114,6 +114,6 @@ ip dhcp pool CS_RECEPTION
 - Cisco IOS
 
 ## Project Files
-- [`topology.pkt`](topology.pkt) - Packet Tracer simulation file
+- [`topology.pkt`](Vlantopology.pkt) - Packet Tracer simulation file
 - [`configs/`](configs/) - Device configuration files
 - [`topology.png`](topology.png) - Network topology diagram
