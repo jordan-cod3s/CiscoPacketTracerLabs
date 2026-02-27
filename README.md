@@ -15,6 +15,19 @@ A collection of hands-on networking projects demonstrating fundamental and advan
 
 **Status:** Complete
 
+### [02 - VLAN Segmentation Design Lab](./02-cisco-vlan-network-design)
+**Scenario:** Building a small network for a branch of a fast-growing company, segmented into three separate departments, each isolated on their own VLAN. 
+
+**Skills Demonstrated:**
+- VLAN configuration and segmentation
+- Inter-VLAN routing
+- Subnetting (/26)
+- DHCP configuration
+- Wireless access point integration
+- Trunk and access port configuration
+
+**Status:** Complete
+
 ---
 
 ## Learning Objectives
@@ -65,17 +78,6 @@ These projects demonstrate:
 - **Problem-solving skills** through configuration and troubleshooting
 - **Documentation abilities** critical for network operations
 - **Foundation knowledge** for CCNA certification
-
-## About Me
-
-I'm Jordan, a GRC professional with a Master's in Cybersecurity, building hands-on technical networking skills. These labs represent my journey from policy/compliance work toward technical security and network engineering roles.
-
-**Background:** Technology Risk Consulting @ Ernst & Young → GRC Analyst @ Squarespace  
-**Learning Goals:** Network automation, Python for infrastructure
-
-[LinkedIn](https://www.linkedin.com/in/jordan-rudolph-51706312b/) | [Main Profile](https://github.com/jordan-cod3s)
-
----
 
 ## Notes
 
