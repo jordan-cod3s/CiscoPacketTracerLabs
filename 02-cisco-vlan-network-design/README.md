@@ -24,3 +24,18 @@ Building a small network for a branch of a fast-growing company with the followi
 ## Configuration Files
 - [Router Config](configs/router-config.txt)
 - [Switch Config](configs/switch-config.txt)
+
+## Testing & Verification
+Ping tests were conducted between departments to confirm inter-VLAN communication was successful.
+*(Add screenshots of successful pings here)*
+
+## Tools Used
+- Cisco Packet Tracer
+- Cisco IOS
+
+## Key Concepts Demonstrated
+- VLAN segmentation
+- Inter-VLAN routing
+- Subnetting (/26)
+- DHCP configuration
+- Wireless access point integration
