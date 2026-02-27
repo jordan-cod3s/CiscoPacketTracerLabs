@@ -1,1 +1,43 @@
+Router(config)#exit
+Router#
+%SYS-5-CONFIG_I: Configured from console by console
 
+Router#
+Router#
+Router#service dhcp
+               ^
+% Invalid input detected at '^' marker.
+	
+Router#en
+Router#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#service dhcp
+Router(config)#
+Router(config)#
+Router(config)#ip dhcp pool Admin-pool
+Router(dhcp-config)#network 192.168.1.0 255.255.255.192
+Router(dhcp-config)#default-router 192.168.1.1
+Router(dhcp-config)#dns-server 192.168.1.1
+Router(dhcp-config)#domain-name Admin.com
+Router(dhcp-config)#exit
+Router(config)#
+Router(config)#ip dhcp pool Finance-pool
+Router(dhcp-config)#network 192.168.1.64 255.255.255.192
+Router(dhcp-config)#default-router 192.168.1.65
+Router(dhcp-config)#dns-server 192.168.1.65
+Router(dhcp-config)#domain-name Finance.com
+Router(dhcp-config)#exit
+Router(config)#
+Router(config)#
+Router(config)#ip dhcp pool CS.com
+Router(dhcp-config)#network 192.168.1.128 255.255.255.192
+Router(dhcp-config)#default-router 192.168.1.129
+Router(dhcp-config)#dns-server 192.168.1.129
+Router(dhcp-config)#domain-name CS.com
+Router(dhcp-config)#exit
+Router(config)#do wr
+Building configuration...
+[OK]
+Router(config)#%DHCPD-4-PING_CONFLICT: DHCP address conflict:  server pinged 192.168.1.1.
+%DHCPD-4-PING_CONFLICT: DHCP address conflict:  server pinged 192.168.1.65.
+%DHCPD-4-PING_CONFLICT: DHCP address conflict:  server pinged 192.168.1.129.
