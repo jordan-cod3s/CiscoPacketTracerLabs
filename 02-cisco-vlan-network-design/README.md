@@ -19,5 +19,5 @@ Building a small network for a branch of a fast-growing company with the followi
 | CS/Reception | 30 | 192.168.1.128/26 | 255.255.255.192 | 192.168.1.129 |
 
 ## Network Topology
-!['Network Topology']([topology.png](https://github.com/jordan-cod3s/CiscoPacketTracerLabs/blob/main/02-cisco-vlan-network-design/screenshots/topology.png))
+![Network Topology]([topology.png](https://github.com/jordan-cod3s/CiscoPacketTracerLabs/blob/main/02-cisco-vlan-network-design/screenshots/topology.png))
 
